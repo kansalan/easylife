@@ -7,11 +7,11 @@
         "deviceTypeId":""
     },
     "alertsCapabilityAgent":{
-        "timerShortSoundFilePath":"/home/files/timerShort.wav",
-        "alarmSoundFilePath":"/home/files/alarmDefault.mp3",
         "databaseFilePath":"/home/files/avs.db",
-        "timerSoundFilePath":"/home/files/timerDefault.mp3",
-        "alarmShortSoundFilePath":"/home/files/alarmShort.wav"
+        "alarmSoundFilePath":"/home/files/alarmDefault.mp3",
+        "alarmShortSoundFilePath":"/home/files/alarmShort.wav",
+        "timerShortSoundFilePath":"/home/files/timerShort.wav",
+        "timerSoundFilePath":"/home/files/timerDefault.mp3"
     }
 
 }
