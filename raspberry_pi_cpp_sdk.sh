@@ -194,3 +194,16 @@ pip install --upgrade pip
 
 sudo apt install pavucontrol
 
+
+
+----- Auth Server ---
+
+python AuthServer/AuthServer.py
+
+------ RUN THE APP --------
+
+cd $HOME
+cd BUILD
+cd SampleApp/src/
+TZ=UTC ./SampleApp ./../../Integration/AlexaClientSDKConfig.json  $LOCAL_BUILD/models DEBUG9
+
