@@ -189,7 +189,7 @@ sudo make install        
 sudo apt install python-pip
 
 sudo pip install flask requests
-wai
+
 pip install --upgrade pip
 
 sudo apt install pavucontrol
