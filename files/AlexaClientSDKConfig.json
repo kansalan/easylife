@@ -1,0 +1,16 @@
+{
+    "alertsCapabilityAgent":{
+        "timerShortSoundFilePath":"/home/files/timerShort.wav",
+        "alarmSoundFilePath":"/home/files/alarmDefault.mp3",
+        "databaseFilePath":"/home/files/avs.db",
+        "timerSoundFilePath":"/home/files/timerDefault.mp3",
+        "alarmShortSoundFilePath":"/home/files/alarmShort.wav"
+    },
+    "authDelegate":{
+        "clientSecret":"",
+        "deviceSerialNumber":"",
+        "refreshToken":"",
+        "clientId":"",
+        "deviceTypeId":""
+    }
+}
