@@ -1,3 +1,10 @@
+
+http://nairobi-embedded.org/alsa_pcm_plugins_capture.html 
+
+ sudo apt-get install libasound2-plugins
+
+
+~/.asound 
 pcm.!default {
   type asym
    playback.pcm {
